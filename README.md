@@ -1,4 +1,5 @@
 # 📊 VQA Dataset EDA & Analysis
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Thanmai-11/vqa-dataset-eda/blob/main/notebooks/eda_all_vqa_datasets.ipynb)
 
 This repository contains detailed **Exploratory Data Analysis (EDA)** for multiple Visual Question Answering (VQA) datasets spanning general, medical, and botanical domains. The goal is to analyze the linguistic, semantic, and structural characteristics of each dataset to inform model design, domain adaptation, and benchmarking.
 
